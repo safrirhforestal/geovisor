@@ -1,6 +1,6 @@
 {
-  "titulo_geovisor": "Geovisor Mesoamérica",
-  "autor_desarrollador": "AFOLU Copernicus",
+  "titulo_geovisor": "Paso del Puma: conectividad funcional y estructural",
+  "autor_desarrollador": "ACBTC-Manuel Morales",
   
   // Mapa base por defecto. Descomenta SOLO UNO de los siguientes valores:
   "mapa_base_defecto": "dark",
