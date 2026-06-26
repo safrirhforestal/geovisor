@@ -12,7 +12,18 @@
   // Lista de archivos GeoJSON/JSON en la carpeta data/ que se cargarán automáticamente.
   // Es muy útil para despliegue estático (como GitHub Pages) donde no se pueden escanear carpetas dinámicamente:
   "capas_a_cargar": [
-    "Areas_Protegidas_corte.json",
-    "Limite_ZonaEstudio.json"
+    "paso_puma_area_influencia.geojson",
+    "avistamiento_puma.geojson",
+    "caminos_2026.geojson",
+    "CBTC_2025.geojson",
+    "cobertura_2023.geojson",
+    "paso_puma_area_influencia.geojson",
+    "POBLADOS.geojson",
+    "PSA2019_2025.geojson",
+    "RUTA_CONECT_ACBTC2019.geojson",
+    "TI_PASO_PUMA.geojson"
+    
+
+    
   ]
 }
