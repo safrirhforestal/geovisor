@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "avistamiento_puma2025_2026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5367" } },
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "Fecha": "2018-09-08", "Poblado": "Bocuare", "Sitio": "María Elizabeth Talavera Blandon", "Fuente": "Foto", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 620007.105, 1069319.661 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2024-09-19", "Poblado": "Buenas Vista", "Sitio": "CBTC Gerardo Torres San Rafael", "Fuente": "Foto", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 621736.106, 1069600.164 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-10-08", "Poblado": "Carrandi", "Sitio": "Terra Nogal PSA", "Fuente": "Foto", "Detalle": "Heces y huellas" }, "geometry": { "type": "Point", "coordinates": [ 587533.106, 1102781.688 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-06-15", "Poblado": "Carbón 1", "Sitio": "Isabel Umaña y Ambrosio Medrano PSA", "Fuente": "Entrevista", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 627718.631, 1066969.939 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-06-15", "Poblado": "Carbón 2", "Sitio": "Marcos López y Baciliza Aragón PSA", "Fuente": "Entrevista", "Detalle": "Huellas y echadero" }, "geometry": { "type": "Point", "coordinates": [ 623735.53, 1071426.738 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-06-15", "Poblado": "Valle las Rosas", "Sitio": "Roins Rojas PSA", "Fuente": "Foto", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 610577.792, 1067987.887 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-10-23", "Poblado": "Paraíso", "Sitio": "Joel Gaggstatter", "Fuente": "Foto", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 646958.862, 1059217.406 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-08-14", "Poblado": "Manzanillo", "Sitio": "Manzanillo Sol y Mar PSA", "Fuente": "Foto", "Detalle": "Heces" }, "geometry": { "type": "Point", "coordinates": [ 646822.799, 1063196.475 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2026-01-29", "Poblado": "Punta Uva", "Sitio": "La Ninfa PSA", "Fuente": "Entrevista", "Detalle": "Encuentro" }, "geometry": { "type": "Point", "coordinates": [ 641688.711, 1064167.053 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-12-01", "Poblado": "Hone Creek", "Sitio": "Kéköldi PSA", "Fuente": "Entrevista", "Detalle": "Huellas" }, "geometry": { "type": "Point", "coordinates": [ 634051.075, 1065410.765 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2023-05-17", "Poblado": "Manzanillo", "Sitio": "Peter Garcsar PSA", "Fuente": "Camara trampa", "Detalle": "Video" }, "geometry": { "type": "Point", "coordinates": [ 646639.461, 1063005.578 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-11-18", "Poblado": "Buenas Vista", "Sitio": "CBTC Gerardo Torres San Rafael", "Fuente": "Camara trampa", "Detalle": "Video" }, "geometry": { "type": "Point", "coordinates": [ 621840.885, 1069411.936 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2025-09-09", "Poblado": "Hitoy Cerere", "Sitio": "RNVS Hitoy Cerere Rompe Pecho", "Fuente": "Camara trampa", "Detalle": "Foto" }, "geometry": { "type": "Point", "coordinates": [ 608539.612, 1067818.463 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2026-04-28", "Poblado": "Paraíso", "Sitio": "Finca JOEL GAGGSTATTER", "Fuente": "Camara trampa", "Detalle": "Video" }, "geometry": { "type": "Point", "coordinates": [ 647028.580598, 1059101.076412 ] } },
+{ "type": "Feature", "properties": { "Fecha": "2026-01-21", "Poblado": "San Clemente", "Sitio": "Finca Marvin Abarca", "Fuente": "Camara trampa", "Detalle": "Video" }, "geometry": { "type": "Point", "coordinates": [ 614663.442519, 1086733.472454 ] } }
+]
+}
