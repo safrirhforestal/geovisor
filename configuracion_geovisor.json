@@ -1,6 +1,6 @@
 {
   "titulo_geovisor": "Paso del Puma: conectividad funcional y estructural",
-  "autor_desarrollador": "Corredor Biológico Talamanca Caribe-Manuel Morales",
+  "autor_desarrollador": "Corredor Biológico Talamanca Caribe",
   
   // Mapa base por defecto. Descomenta SOLO UNO de los siguientes valores:
   "mapa_base_defecto": "dark",
@@ -12,18 +12,6 @@
   // Lista de archivos GeoJSON/JSON en la carpeta data/ que se cargarán automáticamente.
   // Es muy útil para despliegue estático (como GitHub Pages) donde no se pueden escanear carpetas dinámicamente:
   "capas_a_cargar": [
-    "paso_puma_area_influencia.geojson",
-    "avistamiento_puma.geojson",
-    "caminos_2026.geojson",
-    "CBTC_2025.geojson",
-    "cobertura_2023.geojson",
-    "paso_puma_area_influencia.geojson",
-    "POBLADOS.geojson",
-    "PSA2019_2025.geojson",
-    "RUTA_CONECT_ACBTC2019.geojson",
-    "TI_PASO_PUMA.geojson"
-    
-
-    
+    "avistamiento_puma.geojson"
   ]
 }
